@@ -1,0 +1,56 @@
+SWT Assignment 7
+Description
+
+Assignment 7: Defect Management
+
+
+1. What is a defect in software testing?
+A defect is basically a flaw or bug in the software that causes it to behave in a way it’s not supposed to. It could be anything from a broken feature to a mismatch between the actual and expected results. I’ve learned that defects can occur at any stage of development, and if they’re not caught early, they can lead to bigger issues later on.
+
+2. Describe the defect lifecycle.
+The defect lifecycle is the process a defect goes through from the moment it’s discovered to when it’s completely resolved and closed. The main stages include:
+
+New – The defect is found and logged.
+
+Assigned – It gets assigned to a developer to fix.
+
+Open – The developer confirms the issue and starts working on it.
+
+Fixed – The defect is resolved and ready for testing.
+
+Retest – QA tests the fix to make sure it works.
+
+Closed – The defect is confirmed as fixed and marked closed.
+
+Reopened – If the issue still exists, it can be reopened.
+
+Seeing how organized this lifecycle is helped me understand how teams keep track of issues effectively.
+
+3. Why is early defect identification important?
+I realized that catching defects early in the process saves a ton of time, effort, and money. If issues are found during the requirements or design phases, they’re usually cheaper and easier to fix than if they’re discovered after release. Early detection also improves the overall quality of the product and reduces the risk of failures in production.
+
+4. What are some common methods of identifying defects?
+Some of the methods I’ve learned for identifying defects include:
+
+Static testing like reviews and inspections
+
+Dynamic testing through manual or automated test execution
+
+Unit testing by developers
+
+User feedback or beta testing
+
+Each method plays a role in improving the chances of catching different types of defects at various stages.
+
+5. Why is defect logging important for effective defect management?
+Defect logging is essential because it helps create a clear, organized record of each issue. When defects are logged properly—with detailed descriptions, steps to reproduce, severity, and screenshots—it becomes much easier for developers to understand and fix them. It also helps with tracking progress, prioritizing critical issues, and improving communication within the team.
+
+Let me know if there are any additional questions for this assignment or if you'd like the answers in a different tone or format!
+
+
+
+
+
+
+
+
